@@ -21,10 +21,10 @@ src/
            ├── case_1/
            │    └── Case.java
            └── case_2/
-                ├── service/
                 ├── dto/
                 ├── entity/
                 ├── mapper/
+                ├── service/
                 └── Case.java
 ```
 
