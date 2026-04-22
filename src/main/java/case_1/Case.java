@@ -16,6 +16,7 @@ public class Case {
 
         int frequency = calculteFrequency(text, isCaseSensitive, characterThatWillAnalyze);
 
+        scn.close();
         System.out.println("Girdiginiz cumlede " + characterThatWillAnalyze + " harfi " + frequency + " kere gecmektedir.");
     }
 
