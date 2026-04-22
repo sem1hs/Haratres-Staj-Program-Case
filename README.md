@@ -6,7 +6,12 @@ Bu repositoryi, Java ile geliştirdiğim iki farklı konsol uygulamasını içer
 * 🛒 **Case 2: Alışveriş Sepeti Uygulaması**
 
 ---
+## 🚀 Kullanılan Teknolojiler
 
+* ☕ Java 25
+* ⚙️ Gradle
+
+---
 ## 📁 Proje Yapısı
 
 ```
